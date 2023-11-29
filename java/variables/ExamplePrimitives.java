@@ -9,5 +9,8 @@ public class ExamplePrimitives{
 
     float f =  3.14F;
     double d =  3.141212212;
+
+    char c = 'a';
+    char c1 = 45;
     }
 }
