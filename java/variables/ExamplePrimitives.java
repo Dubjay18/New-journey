@@ -6,5 +6,8 @@ public class ExamplePrimitives{
     short s =  23000;
     int i =  45000;
     long l =  1000000000000000000L;
+
+    float f =  3.14F;
+    double d =  3.141212212;
     }
 }
