@@ -12,5 +12,7 @@ public class ExamplePrimitives{
 
     char c = 'a';
     char c1 = 45;
+
+    boolean b1 = true;
     }
 }
